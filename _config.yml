@@ -19,4 +19,4 @@ collections:
     output: true
     permalink: /projects/:path/
     
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-merlot
