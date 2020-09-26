@@ -1,0 +1,22 @@
+# Site settings
+title:              abhishek suman
+email:              abhisheksuman1111@gmail.com
+description:        "Portfolio template of abhishek suman"
+url:                "https://abhisheksuman11.github.io"
+# baseurl:            /main
+baseurl:
+
+# File structure settings
+image_path:         /public/images
+
+# Build settings
+markdown:           kramdown
+permalink:          pretty
+
+# Collection definitions and settings
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    
+theme: minima
